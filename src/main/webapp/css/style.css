@@ -1,0 +1,70 @@
+body{
+ min-height: 100vh;
+  position: relative;
+  margin: 0;
+  padding-bottom: 100px; 
+
+}
+
+#footer {
+margin-top: 40px;
+position: absolute;
+text-align: center;
+  
+margin-left: 30%;
+bottom: 0;
+}
+	.container{
+	height: auto;
+}
+
+.jumbotron {
+	background-color:#fff;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	padding-top: 1rem;
+}
+.btn-outline-primary, .btn-primary{
+	
+	color:#7a93ec;
+	border-color: #7a93ec;
+}
+.btn-primary{
+background-color: #6e89ea;
+color: white;
+}
+
+
+.btn-outline-primary:hover, .btn-primary:hover{
+	background-color: #6986eb;
+}
+
+
+.card-block{
+	padding: 12px;
+}
+
+
+h1{
+	font-size: 30px;
+	padding: 5px;
+}/*
+.icon-delete{
+	color: red;
+	cursor: pointer;
+	margin-left: 5px;
+}
+.icon-delete:hover, .icon-edit{
+    color: white;
+}
+.icon-edit{
+	color: #28a745;
+	cursor: pointer;
+}*/
+.fa-lg{
+	font-size: 18px;
+}
+
+.bg-light-blue{
+	background-color: #bad1f7;
+}
